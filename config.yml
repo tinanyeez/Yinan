@@ -1,0 +1,31 @@
+baseURL: ""
+languageCode: 'en-us'
+title: 'Yinan Zhao'
+theme: PaperMod
+
+params:
+  profileMode: 
+    enabled: true
+    title: "Yinan Zhao"
+    subtitle: "Email: zhaoyn0522@163.com"
+    imageUrl: "bass.jpg"
+    buttons:
+      - identifier: archives
+        name: Projects
+        url: "/archives/"
+  ShowPostNavLinks: true
+  # ShowBreadCrumbs: true
+  # socialIcons:
+  #  - name: Douban
+  #    url: "https://douban.com"
+  #  - name: instagram
+  #    url: "https://instagram.com"
+
+menu:
+  main:
+    - identifier: archives
+      name: Projects
+      url: "/archives/"
+    - identifier: tags
+      name: Tags
+      url: "/tags/"

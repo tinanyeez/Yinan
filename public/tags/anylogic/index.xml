@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AnyLogic on Yinan Zhao</title>
+    <link>/tags/anylogic/</link>
+    <description>Recent content in AnyLogic on Yinan Zhao</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Jun 2024 21:57:28 +0800</lastBuildDate>
+    <atom:link href="/tags/anylogic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Haidilao Simulation Project</title>
+      <link>/posts/haidilao/</link>
+      <pubDate>Fri, 21 Jun 2024 21:57:28 +0800</pubDate>
+      <guid>/posts/haidilao/</guid>
+      <description>&lt;p&gt;This is a project that uses simulation to digitize real-world problems and provide solutions or improvements. We collect real-world data and use AnyLogic for system simulation.&lt;/p&gt;
+&lt;p&gt;Specifically, we use the queuing number collection online system of the Haidilao to collect number collection and number calling data for three consecutive days for subsequent arrival rate and service rate. We also went to a Haidilao to ask the staff about the store, including the floor area, the number of different table types and other information.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

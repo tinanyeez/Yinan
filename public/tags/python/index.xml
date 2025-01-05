@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on Yinan Zhao</title>
+    <link>/tags/python/</link>
+    <description>Recent content in Python on Yinan Zhao</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Jun 2024 21:57:28 +0800</lastBuildDate>
+    <atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>YouTube Video Popularity Analysis</title>
+      <link>/posts/youtubevideo/</link>
+      <pubDate>Sun, 02 Jun 2024 21:57:28 +0800</pubDate>
+      <guid>/posts/youtubevideo/</guid>
+      <description>&lt;p&gt;This is a project that used Stata to analyze videos on YouTube trend. There are datasets of YouTube trend videos from 10 countries, including channel name, channel id, video id, video type, number of likes, number of dislikes, etc.&lt;/p&gt;
+&lt;p&gt;I selected the data of South Korea to study what factors influenced the popularity of these videos, so that they could occupy a position in trend. I put forward four hypotheses as below:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Album Management System</title>
+      <link>/posts/albumsystem/</link>
+      <pubDate>Fri, 02 Jun 2023 21:57:28 +0800</pubDate>
+      <guid>/posts/albumsystem/</guid>
+      <description>&lt;p&gt;When people buy albums, the logistics system is often a part of the attention of many people. When people are considering buying from different platforms, their choices often depend on the availability of stock, the speed of delivery, the timeliness of delivery, the accuracy of customer information, and the accuracy of sales. However, there are many problems in the logistics system of many platforms nowadays, such as insufficient stock, album misdistribution, missing distribution, and sales reflection is not timely.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

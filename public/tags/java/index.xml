@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Java on Yinan Zhao</title>
+    <link>/tags/java/</link>
+    <description>Recent content in Java on Yinan Zhao</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Dec 2024 21:57:28 +0800</lastBuildDate>
+    <atom:link href="/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The main capital flow calculation of the stock market</title>
+      <link>/posts/stock/</link>
+      <pubDate>Sun, 22 Dec 2024 21:57:28 +0800</pubDate>
+      <guid>/posts/stock/</guid>
+      <description>&lt;p&gt;In the stock market, the major capital refers to a trader who has concentrated a large amount of money and has the ability to lead the rise and fall of a stock. Therefore, it is important to identify the major capital in the stock market.&lt;/p&gt;
+&lt;p&gt;This project aims to output the main net inflow, main inflow, main outflow and individual volume and turnover of each time interval divided by T-window in the continuous bidding and closing aggregate bidding stages according to the given stock code and T-window.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Implement chess interface in Java</title>
+      <link>/posts/javaproj/</link>
+      <pubDate>Mon, 30 May 2022 21:57:28 +0800</pubDate>
+      <guid>/posts/javaproj/</guid>
+      <description>&lt;p&gt;This project aims to complete the front end chess interface, and implements the back end logic according to chess rules in Java. Our program, when run, allows two people to play a normal chess match, with countdown reminders and reminder routes for both sides.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;https://drive.google.com/drive/folders/1j6a4w2IaC70O7rWcCvJKahxSX3hgz6Tj?usp=sharing&#34;&gt;Code and report for chess implement&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

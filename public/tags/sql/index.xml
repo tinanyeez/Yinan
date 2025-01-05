@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SQL on Yinan Zhao</title>
+    <link>/tags/sql/</link>
+    <description>Recent content in SQL on Yinan Zhao</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Jun 2023 21:57:28 +0800</lastBuildDate>
+    <atom:link href="/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Album Management System</title>
+      <link>/posts/albumsystem/</link>
+      <pubDate>Fri, 02 Jun 2023 21:57:28 +0800</pubDate>
+      <guid>/posts/albumsystem/</guid>
+      <description>&lt;p&gt;When people buy albums, the logistics system is often a part of the attention of many people. When people are considering buying from different platforms, their choices often depend on the availability of stock, the speed of delivery, the timeliness of delivery, the accuracy of customer information, and the accuracy of sales. However, there are many problems in the logistics system of many platforms nowadays, such as insufficient stock, album misdistribution, missing distribution, and sales reflection is not timely.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
